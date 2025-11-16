@@ -1,4 +1,4 @@
-# PICO 2 PIO Multicore setup and threadsafe pio statemachine TX UART
+# PICO 2 Multicore setup and threadsafe pio statemachine TX UART
 
 iaits
 
